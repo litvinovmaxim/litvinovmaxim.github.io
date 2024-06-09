@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/header.css">
+    <link rel="stylesheet" href="styles/footer.css">
+    <link rel="stylesheet" href="styles/form.css">
+    <link rel="icon" href="service/favicon.ico">
+    <title>Регистрация</title>
+</head>
+
+<body>
+    <header id="header-site"></header>
+    <script async src="service/header.js"></script>
+
+    <div class="area">
+    <form action="index.html">
+        <label for="login" class="form__label">Логин</label>
+        <input type="text" placeholder="Введите логин" class="form__input" id="login" required>
+
+        <label for="pass" class="form__label">Пароль</label>
+        <input type="password" placeholder="Придумайте пароль" class="form__input" id="pass" required>
+
+        <label for="e-mail" class="form__label">E-mail</label>
+        <input type="email" placeholder="Введите e-mail" class="form__input" id="e-mail" required>
+
+        <label for="date" class="form__label">Дата рождения</label>
+        <input type="date" placeholder="" class="form__input" id="date" required>
+
+        <p><input name="sex" type="radio" value="male" required>Мужской</p>
+        <p><input name="sex" type="radio" value="female" required>Женский</p>
+
+        <input type="submit" value="Отправить">
+        <input type="reset" value="Сбросить">
+        
+    </form>
+    </div>
+
+    <footer id="footer-site"></footer>
+    <script async src="service/footer.js"></script> 
+</body>
+</html>
