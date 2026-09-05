@@ -1,6 +1,6 @@
 #profile-title: FastVPN (by Maxim)
 #profile-update-interval: 6
-#announce: Проверятйе пинг ⏱️ | Обновляйте поддписку 🔄 | Обновлено: 05.09 12:00 📆 | Россия - для БС 🇷🇺 | Без торрентов ❌
+#announce: Проверятйе пинг ⏱️ | Обновляйте поддписку 🔄 | Обновлено: 05.09 12:15 📆 | Россия - для БС 🇷🇺 | Самые быстрые 🚀 | Без торрентов ❌
 #support-url: https://t.me/hewipa
 #profile-web-page-url: https://t.me/hewipa
 #hide-settings: 1
