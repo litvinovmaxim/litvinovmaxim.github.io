@@ -1,4 +1,4 @@
-#profile-title: 🪩FastVPN (by Maxim)
+#profile-title: 🪩⚡️FastVPN (by Maxim)
 #profile-update-interval: 3
 #announce: Проверятйе пинг ⏱️ | Обновляйте поддписку 🔄 | Обновлено: 06.09 20:10 📆 | Россия - для БС 🇷🇺 | Самые быстрые - 🚀 | Без торрентов ❌
 #support-url: https://t.me/hewipa
