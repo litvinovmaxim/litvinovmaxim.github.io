@@ -1,6 +1,6 @@
 #profile-title: 🏳️⚡️WhiteListVPN (by Maxim)
 #profile-update-interval: 4
-#announce: Проверятйе пинг ⏱️ | Обновляйте поддписку 🔄 | Работа не гарантируется 🏳️
+#announce: Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️
 #support-url: https://t.me/hewipa
 #profile-web-page-url: https://t.me/hewipa
 #hide-settings: 1
