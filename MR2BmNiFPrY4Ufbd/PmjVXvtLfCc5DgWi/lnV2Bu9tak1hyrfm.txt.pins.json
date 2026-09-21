@@ -1,12 +1,12 @@
 [
-  "trojan://e7guo4u2z0k98t3a@31.57.108.15:443?fp=firefox&headerType=http&host=&path=%2F&pbk=pKgYo50fV39hWLLpzvtbo4QO2kDam1QJR8PXst0ngFM&security=reality&sid=4b37df4a4f86a1&sni=google.com&spx=%2Fba86d05ff6b21f6&type=tcp",
   "trojan://e7guo4u2z0k98t3a@31.57.108.15:443?fp=firefox&headerType=http&host=&path=%2F&pbk=pKgYo50fV39hWLLpzvtbo4QO2kDam1QJR8PXst0ngFM&security=reality&sid=6d49&sni=youtubeeducation.com&spx=%2Fba86d05ff6b21f6&type=tcp",
   "trojan://e7guo4u2z0k98t3a@31.57.108.15:443?fp=firefox&headerType=http&host=&path=%2F&pbk=xGz-4epOl_0fBvlAAGD08hdPzUsdtQuf1Yxbp1SI6xM&security=reality&sid=c6ec2052&sni=blog.api.www.cloudflare.com&spx=%2Fba86d05ff6b21f6&type=tcp",
+  "vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@94.141.162.51:443/?type=grpc&encryption=none&flow=&serviceName=grpc-service&sni=rutube.ru&fp=chrome&security=reality&pbk=KQASJC-erEvv8cgBbvJRMfHq0Z0TApsQUNtdSwl0YQY&sid=8f3e9c4b1a8d6e21",
+  "vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@ruself.yandex-api.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ruself.yandex-api.com&fp=edge&security=reality&pbk=c8IEc_c_QBmI5YAwILoVH0xw2xC4AJgJDKEYKcmKogo&sid=7f2e9c4b1a8d6e55",
   "vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=qq.utiltools.site&fp=qq&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&type=tcp&headerType=none",
   "vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.site",
   "vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@87.121.89.42:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JhutTb8LnJILjPU2SVKR45BQlu7iq1-snyEu06Cs9z4&security=reality&sni=video.sream-video.shop&type=tcp",
   "vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@87.121.89.42:443?type=tcp&headerType=none&security=reality&encryption=none&sni=video.sream-video.shop&fp=random&pbk=JhutTb8LnJILjPU2SVKR45BQlu7iq1-snyEu06Cs9z4&spx=%2F&flow=xtls-rprx-vision",
   "vless://ff131e0d-e3e9-4b63-94ed-b78b7655481b@31.57.108.15:8443?encryption=none&fp=firefox&headerType=http&host=&path=%2F&pbk=XDSwl1f1JxPBAOon4Lvs6iGdiT67E2J7CNkegUy9ygk&security=reality&sid=b9959f96d301d2df&sni=blog.api.www.cloudflare.com&spx=%2Fc27f04b5d2652be&type=tcp",
-  "vless://ff131e0d-e3e9-4b63-94ed-b78b7655481b@31.57.108.15:8443?encryption=none&fp=firefox&pbk=DIanLmYS0Sk4KNWWHxyOlVYWv4-3EjY-9QhzVxvQDzA&security=reality&sid=5a&sni=music.youtube.com&spx=%2F1e5264e39a09d2a&type=tcp",
   "vless://ff131e0d-e3e9-4b63-94ed-b78b7655481b@31.57.108.15:8443?encryption=none&fp=firefox&pbk=jE7Q8EbMuV4eE2XE8hOJqGHonZ-8yky9sKAekqKoh08&security=reality&sid=83337b8d9a&sni=ai.android&spx=%2Fc27f04b5d2652be&type=tcp"
 ]
