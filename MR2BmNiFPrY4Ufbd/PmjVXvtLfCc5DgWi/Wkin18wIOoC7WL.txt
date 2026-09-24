@@ -42,7 +42,14 @@
         "tag": "http"
       }
     ],
-    "meta": null,
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    },
     "outbounds": [
       {
         "protocol": "vless",
@@ -415,7 +422,14 @@
         "tag": "http"
       }
     ],
-    "meta": null,
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    },
     "outbounds": [
       {
         "protocol": "vless",
@@ -788,7 +802,14 @@
         "tag": "http"
       }
     ],
-    "meta": null,
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    },
     "outbounds": [
       {
         "protocol": "vless",
@@ -1150,7 +1171,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "💬 Телеграм #2",
@@ -1184,7 +1213,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "💬 Телеграм #3",
@@ -1218,7 +1255,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "💬 Телеграм #4",
@@ -1252,7 +1297,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "💬 Телеграм #5",
@@ -1286,7 +1339,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇬🇧 Англия #1",
@@ -1316,7 +1377,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇬🇧 Англия #2",
@@ -1351,7 +1420,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇬🇧 Англия #3",
@@ -1381,7 +1458,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇬🇧 Англия #4",
@@ -1416,7 +1501,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇧🇬 Болгария #1",
@@ -1451,7 +1544,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇧🇬 Болгария #2",
@@ -1486,7 +1587,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇩🇪 Германия #1",
@@ -1521,7 +1630,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇩🇪 Германия #2",
@@ -1556,7 +1673,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇩🇪 Германия #3",
@@ -1590,7 +1715,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇩🇪 Германия #4",
@@ -1625,7 +1758,15 @@
           "grpcSettings": {}
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇩🇪 Германия #5",
@@ -1660,7 +1801,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇪🇺 Европа #1",
@@ -1695,7 +1844,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇪🇺 Европа #2",
@@ -1732,7 +1889,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇪🇺 Европа #3",
@@ -1770,7 +1935,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇪🇸 Испания #1",
@@ -1805,7 +1978,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇰🇿 Казахстан #1",
@@ -1841,7 +2022,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇲🇩 Молдова #1",
@@ -1877,7 +2066,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇲🇩 Молдова #2",
@@ -1912,7 +2109,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇳🇱 Нидерланды #2",
@@ -1950,7 +2155,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇳🇱 Нидерланды #2",
@@ -1988,7 +2201,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇳🇱 Нидерланды #3",
@@ -2023,7 +2244,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇳🇱 Нидерланды #4",
@@ -2058,7 +2287,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇳🇱 Нидерланды #5",
@@ -2093,7 +2330,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇳🇱 Нидерланды #6",
@@ -2130,7 +2375,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇵🇱 Польша #1",
@@ -2165,7 +2418,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇵🇱 Польша #2",
@@ -2200,7 +2461,52 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
+  },
+  {
+    "remarks": "🇵🇱 Польша #3",
+    "inbounds": [],
+    "outbounds": [
+      {
+        "tag": "proxy",
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "191.44.113.95",
+              "port": 443,
+              "password": "pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr"
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "16.img.avito.st",
+            "fingerprint": "firefox",
+            "publicKey": "yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0",
+            "shortId": "43dcff53849b81e6"
+          }
+        }
+      }
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇵🇱 Польша #4",
@@ -2235,7 +2541,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇵🇱 Польша #5",
@@ -2270,7 +2584,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇵🇱 Польша #6",
@@ -2305,7 +2627,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "Рандом #1",
@@ -2340,7 +2670,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "Рандом #2",
@@ -2374,7 +2712,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "Рандом #3",
@@ -2410,7 +2756,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "Рандом #4",
@@ -2449,7 +2803,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "Рандом #5",
@@ -2484,7 +2846,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "Рандом #6",
@@ -2523,7 +2893,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "Рандом #7",
@@ -2562,7 +2940,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "Рандом #8",
@@ -2597,7 +2983,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "Рандом #9",
@@ -2632,7 +3026,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "Рандом #10",
@@ -2666,7 +3068,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "Рандом #11",
@@ -2701,7 +3111,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "Рандом #12",
@@ -2743,7 +3161,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "Рандом #13",
@@ -2779,7 +3205,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "Рандом #14",
@@ -2815,7 +3249,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇷🇺 Россия #1",
@@ -2849,7 +3291,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇷🇺 Россия #2",
@@ -2883,7 +3333,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇷🇺 Россия #3",
@@ -2917,7 +3375,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇷🇺 Россия #4",
@@ -2952,7 +3418,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇷🇺 Россия #5",
@@ -2987,7 +3461,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇷🇺 Россия #6",
@@ -3022,7 +3504,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇷🇺 Россия #7",
@@ -3057,7 +3547,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇷🇺 Россия #8",
@@ -3091,7 +3589,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇷🇺 Россия #9",
@@ -3125,7 +3631,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇷🇺 Россия #10",
@@ -3160,7 +3674,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇷🇺 Россия #11",
@@ -3195,7 +3717,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇷🇺 Россия #12",
@@ -3230,7 +3760,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇷🇺 Россия #13",
@@ -3265,7 +3803,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇷🇺 Россия #14",
@@ -3299,7 +3845,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇷🇺 Россия #15",
@@ -3333,7 +3887,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇷🇺 Россия #16",
@@ -3368,7 +3930,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇷🇺 Россия #17",
@@ -3403,7 +3973,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇺🇸 США #1",
@@ -3438,7 +4016,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇺🇸 США #2",
@@ -3473,7 +4059,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇺🇸 США #3",
@@ -3508,7 +4102,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇺🇸 США #4",
@@ -3543,7 +4145,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇫🇮 Финляндия #1",
@@ -3579,7 +4189,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇫🇮 Финляндия #2",
@@ -3614,7 +4232,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇫🇮 Финляндия #3",
@@ -3650,7 +4276,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇨🇿 Чехия #1",
@@ -3685,7 +4319,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇨🇿 Чехия #2",
@@ -3720,7 +4362,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇨🇿 Чехия #3",
@@ -3751,7 +4401,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇸🇪 Швеция #1",
@@ -3785,7 +4443,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇸🇪 Швеция #2",
@@ -3820,7 +4486,15 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   },
   {
     "remarks": "🇪🇪 Эстония #1",
@@ -3854,6 +4528,14 @@
           }
         }
       }
-    ]
+    ],
+    "meta": {
+      "title": "🏳️⚡️WhiteListVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Работа не гарантируется 🏳️",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
   }
 ]

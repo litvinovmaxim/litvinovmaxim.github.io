@@ -1,9 +1,3 @@
-#profile-title: 🪩⚡️FastVPN (hewipa)
-#profile-update-interval: 4
-#announce: Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Самые быстрые - 🚀 | Без торрентов ❌
-#support-url: https://t.me/hewipa
-#profile-web-page-url: https://t.me/hewipa
-#hide-settings: 1
 [
   {
     "burstObservatory": {
