@@ -1,0 +1,1372 @@
+{
+  "outbounds": [
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "aaaa.mousspeed3.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "safari",
+          "serverName": "aaaa.mousspeed3.site"
+        }
+      },
+      "tag": "normal"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "aaaa.mousspeed3.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "aaaa.mousspeed3.site"
+        }
+      },
+      "tag": "normal-2"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "con101.vesti-admina.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "safari",
+          "serverName": "con101.vesti-admina.site"
+        }
+      },
+      "tag": "normal-3"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "con101.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "con101.vesti-admina.site"
+        }
+      },
+      "tag": "normal-4"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "con102.vesti-admina.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "safari",
+          "serverName": "con102.vesti-admina.site"
+        }
+      },
+      "tag": "normal-5"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "con102.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "con102.vesti-admina.site"
+        }
+      },
+      "tag": "normal-6"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "mouse1.vesti-admina.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "safari",
+          "serverName": "mouse1.vesti-admina.site"
+        }
+      },
+      "tag": "normal-7"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "mouse1.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "mouse1.vesti-admina.site"
+        }
+      },
+      "tag": "normal-8"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "mouse.vesti-admina.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "firefox",
+          "serverName": "mouse.vesti-admina.site"
+        }
+      },
+      "tag": "normal-9"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "mouse.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "safari",
+          "serverName": "mouse.vesti-admina.site"
+        }
+      },
+      "tag": "normal-10"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "mouse2.vesti-admina.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "firefox",
+          "serverName": "mouse2.vesti-admina.site"
+        }
+      },
+      "tag": "normal-11"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "mouse2.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "mouse2.vesti-admina.site"
+        }
+      },
+      "tag": "normal-12"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "con21.vesti-admina.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "firefox",
+          "serverName": "con21.vesti-admina.site"
+        }
+      },
+      "tag": "normal-13"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "con21.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "con21.vesti-admina.site"
+        }
+      },
+      "tag": "normal-14"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "con52.vesti-admina.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "safari",
+          "serverName": "con52.vesti-admina.site"
+        }
+      },
+      "tag": "normal-15"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "con52.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "con52.vesti-admina.site"
+        }
+      },
+      "tag": "normal-16"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "31.76.76.133",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "81a757c2-4920-4441-93e6-0b09abf56613"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "grpcSettings": {
+          "authority": "",
+          "mode": true,
+          "serviceName": "grpc-tunnel"
+        },
+        "network": "grpc",
+        "realitySettings": {
+          "fingerprint": "qq",
+          "publicKey": "fJ9zSztxZ-EKbrg_aefWXs1w6a6CQ5fXapHFdsePD2I",
+          "serverName": "dl.google.com"
+        },
+        "security": "reality"
+      },
+      "tag": "normal-17"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "con51.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false,
+            "disablePathMTUDiscovery": false,
+            "initConnectionReceiveWindow": 20971520,
+            "initStreamReceiveWindow": 8388608,
+            "keepAlivePeriod": 10,
+            "maxConnectionReceiveWindow": 20971520,
+            "maxIdleTimeout": 30,
+            "maxIncomingStreams": 1024,
+            "maxStreamReceiveWindow": 8388608
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "con51.vesti-admina.site"
+        }
+      },
+      "tag": "normal-18"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "con2.vesti-admina.site",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "81a757c2-4920-4441-93e6-0b09abf56613"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "grpcSettings": {
+          "authority": "",
+          "mode": true,
+          "serviceName": "grpc-tunnel"
+        },
+        "network": "grpc",
+        "realitySettings": {
+          "fingerprint": "qq",
+          "publicKey": "fJ9zSztxZ-EKbrg_aefWXs1w6a6CQ5fXapHFdsePD2I",
+          "serverName": "dl.google.com"
+        },
+        "security": "reality"
+      },
+      "tag": "normal-19"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "con100.vesti-admina.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "safari",
+          "serverName": "con100.vesti-admina.site"
+        }
+      },
+      "tag": "normal-20"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "con100.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "con100.vesti-admina.site"
+        }
+      },
+      "tag": "normal-21"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "aaaa.mousspeed3.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "safari",
+          "serverName": "aaaa.mousspeed3.site"
+        }
+      },
+      "tag": "proxy"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "aaaa.mousspeed3.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "aaaa.mousspeed3.site"
+        }
+      },
+      "tag": "proxy #2"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "con101.vesti-admina.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "safari",
+          "serverName": "con101.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #3"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "con101.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "con101.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #4"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "con102.vesti-admina.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "safari",
+          "serverName": "con102.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #5"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "con102.vesti-admina.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "safari",
+          "serverName": "con102.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #6"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "con102.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "con102.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #7"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "mouse1.vesti-admina.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "safari",
+          "serverName": "mouse1.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #8"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "mouse1.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "mouse1.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #9"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "mouse.vesti-admina.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "firefox",
+          "serverName": "mouse.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #10"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "mouse.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "safari",
+          "serverName": "mouse.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #11"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "mouse2.vesti-admina.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "firefox",
+          "serverName": "mouse2.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #12"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "mouse2.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "mouse2.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #13"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "mouse2.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "mouse2.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #14"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "con21.vesti-admina.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "firefox",
+          "serverName": "con21.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #15"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "con21.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "con21.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #16"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "con52.vesti-admina.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "safari",
+          "serverName": "con52.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #17"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "con52.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "con52.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #18"
+    },
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "con100.vesti-admina.site",
+            "password": "xr21WaxrJBTUAd7tV7c8wJ0TuGMZahcX",
+            "port": 443
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {},
+        "tlsSettings": {
+          "alpn": [
+            "h2"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "safari",
+          "serverName": "con100.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #19"
+    },
+    {
+      "protocol": "hysteria",
+      "settings": {
+        "address": "con100.vesti-admina.site",
+        "port": 443,
+        "version": 2
+      },
+      "streamSettings": {
+        "finalmask": {
+          "quicParams": {
+            "congestion": "bbr",
+            "debug": false
+          }
+        },
+        "hysteriaSettings": {
+          "auth": "81a757c2-4920-4441-93e6-0b09abf56613",
+          "version": 2
+        },
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "chrome",
+          "serverName": "con100.vesti-admina.site"
+        }
+      },
+      "tag": "proxy #20"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "cdn.mousspeed2.site",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "81a757c2-4920-4441-93e6-0b09abf56613"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3",
+            "h2",
+            "http/1.1"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "firefox",
+          "serverName": "cdn.mousspeed2.site"
+        },
+        "xhttpSettings": {
+          "extra": {
+            "mode": "packet-up",
+            "path": "/uploadfiles/",
+            "sessionIDLength": "16-32",
+            "sessionIDTable": "Base62",
+            "uplinkHTTPMethod": "GET",
+            "xPaddingHeader": "X-Cache",
+            "xPaddingKey": "_dc",
+            "xPaddingMethod": "tokenish",
+            "xPaddingObfsMode": true,
+            "xPaddingPlacement": "queryInHeader"
+          },
+          "host": "cdn.mousspeed2.site",
+          "mode": "packet-up",
+          "path": "/uploadfiles/"
+        }
+      },
+      "tag": "proxy #21"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "edge.mousspeed3.site",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "81a757c2-4920-4441-93e6-0b09abf56613"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3",
+            "h2",
+            "http/1.1"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "edge",
+          "serverName": "edge.mousspeed3.site"
+        },
+        "xhttpSettings": {
+          "extra": {
+            "mode": "packet-up",
+            "path": "/uploadfiles/",
+            "sessionIDLength": "16-32",
+            "sessionIDTable": "Base62",
+            "uplinkHTTPMethod": "GET",
+            "xPaddingHeader": "X-Cache",
+            "xPaddingKey": "_dc",
+            "xPaddingMethod": "tokenish",
+            "xPaddingObfsMode": true,
+            "xPaddingPlacement": "queryInHeader"
+          },
+          "host": "edge.mousspeed3.site",
+          "mode": "packet-up",
+          "path": "/uploadfiles/"
+        }
+      },
+      "tag": "proxy #22"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "cdn.mouse44.online",
+            "port": 443,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "81a757c2-4920-4441-93e6-0b09abf56613"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "tlsSettings": {
+          "alpn": [
+            "h3",
+            "h2",
+            "http/1.1"
+          ],
+          "enableSessionResumption": false,
+          "fingerprint": "edge",
+          "serverName": "cdn.mouse44.online"
+        },
+        "xhttpSettings": {
+          "extra": {
+            "mode": "packet-up",
+            "path": "/uploadfiles/",
+            "sessionIDLength": "16-32",
+            "sessionIDTable": "Base62",
+            "uplinkHTTPMethod": "GET",
+            "xPaddingHeader": "X-Cache",
+            "xPaddingKey": "_dc",
+            "xPaddingMethod": "tokenish",
+            "xPaddingObfsMode": true,
+            "xPaddingPlacement": "queryInHeader"
+          },
+          "host": "cdn.mouse44.online",
+          "mode": "packet-up",
+          "path": "/uploadfiles/"
+        }
+      },
+      "tag": "proxy #23"
+    },
+    {
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "vk.ru",
+            "port": 4433,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "xtls-rprx-vision",
+                "id": "81a757c2-4920-4441-93e6-0b09abf56613"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "realitySettings": {
+          "fingerprint": "chrome",
+          "publicKey": "IpdN7B2_yM-jkxUvK3umzdzENylpgyJckSBZYxDaD0Q",
+          "serverName": "max.ru",
+          "shortId": "3d8f1e2a7b6c9d4e"
+        },
+        "security": "reality",
+        "tcpSettings": {}
+      },
+      "tag": "proxy #24"
+    }
+  ]
+}
