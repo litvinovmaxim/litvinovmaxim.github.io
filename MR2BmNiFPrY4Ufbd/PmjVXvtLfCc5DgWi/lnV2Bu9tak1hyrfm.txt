@@ -1,3 +1,9 @@
+#profile-title: 🪩⚡️FastVPN (hewipa)
+#profile-update-interval: 4
+#announce: Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Самые быстрые - 🚀 | Без торрентов ❌
+#support-url: https://t.me/hewipa
+#profile-web-page-url: https://t.me/hewipa
+#hide-settings: 1
 [
   {
     "burstObservatory": {
@@ -10037,6 +10043,43 @@
             "fingerprint": "edge",
             "publicKey": "_MNu7iYAsOWPHNojVZIpfmjuUgsUIHYlmJ1UWjCgI3U",
             "shortId": "4a45359303431969"
+          }
+        }
+      }
+    ],
+    "meta": {
+      "title": "🪩⚡️FastVPN (hewipa)",
+      "updateInterval": 4,
+      "announce": "Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Самые быстрые - 🚀 | Без торрентов ❌",
+      "supportUrl": "https://t.me/hewipa",
+      "webPageUrl": "https://t.me/hewipa",
+      "hideSettings": true
+    }
+  },
+  {
+    "remarks": "🇵🇱 Польша #5",
+    "inbounds": [],
+    "outbounds": [
+      {
+        "tag": "proxy",
+        "protocol": "trojan",
+        "settings": {
+          "servers": [
+            {
+              "address": "191.44.113.95",
+              "port": 443,
+              "password": "pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr"
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "tcp",
+          "security": "reality",
+          "realitySettings": {
+            "serverName": "16.img.avito.st",
+            "fingerprint": "firefox",
+            "publicKey": "yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0",
+            "shortId": "43dcff53849b81e6"
           }
         }
       }
