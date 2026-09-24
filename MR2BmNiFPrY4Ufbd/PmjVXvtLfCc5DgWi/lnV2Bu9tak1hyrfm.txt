@@ -1,6 +1,7 @@
 #profile-title: 🪩⚡️FastVPN
 #profile-update-interval: 4
 #announce: Проверятйе пинг ⏱️ | Обновляйте подписку 🔄 | Самые быстрые - 🚀 | Без торрентов ❌
+#subscription-userinfo: upload=0; download=0; total=73667279060992; expire=151400523600
 #support-url: https://t.me/hewipa
 #profile-web-page-url: https://t.me/hewipa
 #hide-settings: 1
