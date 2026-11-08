@@ -1,0 +1,10 @@
+#profile-title: 🪩⚡️FastVPN
+#profile-update-interval: 4
+#announce: Подписка истекла. Оплатите в Telegram: https://t.me/hewipa
+#support-url: https://t.me/hewipa
+#profile-web-page-url: https://t.me/hewipa
+#subscription-userinfo: upload=0; download=0; total=0; expire=1793480399
+#hide-settings: 1
+trojan://privet@privet.local:8080?path=%2FeyJqdW5rIjoiYmx1NXI3dml6Nj&security=none&host=privet.local&type=ws#%D0%92%D0%B0%D1%88%D0%B0%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%B8%D1%81%D1%82%D0%B5%D0%BA%D0%BB%D0%B0
+trojan://privet@privet2.local:8080?path=%2FeyJqdW5rIjoiYmx1NXI3dml6Nj&security=none&host=privet.local&type=ws#%D0%9E%D0%BF%D0%BB%D0%B0%D1%82%D0%B8%D1%82%D0%B5%20%D0%B2%20%D0%A2%D0%93%20%D0%B8%D0%BB%D0%B8%20%D0%92%D0%9A:
+trojan://privet@privet3.local:8080?path=%2FeyJqdW5rIjoiYmx1NXI3dml6Nj&security=none&host=privet.local&type=ws#@hewipa
